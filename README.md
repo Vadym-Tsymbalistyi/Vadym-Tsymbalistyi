@@ -11,7 +11,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий beckend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с изучения python, после чего я плавно пришел к backend разработки, и начал учиться по книгам Introducing Python and Computer_Science . 
+Я начинающий beckend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с изучения python, после чего я плавно пришел к backend разработки. 
 
 - :grinning: Моя цель - работать в IT через полгода.
 
