@@ -1,18 +1,21 @@
-# 👋Привет, меня зовут Vadym!
+# 👋Hi, my name is Vadym!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я начинающий beckend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с изучения python, после чего я плавно пришел к backend разработки, и начал учиться по книгам Introducing Python and Computer_Science .
+I'm a beginner beckend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My
+journey in IT started with learning python, after that I smoothly came to backend development, and started learning from
+Introducing Python and Computer Science books .
 
-- :grinning: Моя цель - работать в IT через полгода.
+- :grinning: My goal is to be working in IT in six months time.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/vadik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vvvaaadddiiiikkk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vadumcimbalist@gmail.com)
+- :mailbox: How to contact
+  me: [![Telegram Badge](https://img.shields.io/badge/vadik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vvvaaadddiiiikkk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vadumcimbalist@gmail.com)
 
 ---
 
-### :speech_balloon: Социальные сети:
+### :speech_balloon: Social media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/vadym-tsymbslistyi-52b7202ba/">
@@ -21,11 +24,14 @@
     <a href="https://t.me/vvvaaadddiiiikkk" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
+    <a href="#">
+      <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="40" height="40" alt="facebook" />
+    </a>
   </div>
 
 ---
 
-### :computer:   Технологии:
+### :computer:   Technologies:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" title="python" alt="python" width="50" height="40"/>&nbsp
@@ -35,7 +41,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Instruments:
 
 <div>
   <a href="https://github.com/">
@@ -44,10 +50,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2023/09/Miro-Logo.png" title="Miro" alt="Miro" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/800px-PyCharm_Icon.svg.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
 </div>
 
 ---
-<!---
-Vadym-Tsymbalistyi/Vadym-Tsymbalistyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
