@@ -8,7 +8,7 @@ I'm a beginner beckend developer <img src="https://media.giphy.com/media/WUlplcM
 journey in IT started with learning python, after that I smoothly came to backend development, and started learning from
 Introducing Python and Computer Science books .
 
-- :grinning: My goal is to be working in IT in six months time.
+- :grinning: My goal is to be working in IT.
 
 - :mailbox: How to contact
   me: [![Telegram Badge](https://img.shields.io/badge/vadik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vvvaaadddiiiikkk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vadumcimbalist@gmail.com)
