@@ -18,6 +18,7 @@ Introducing Python and Computer Science books .
 ### :speech_balloon: Social media:
 
   <div id="badges">
+    <dt></dt>
     <a href="https://www.linkedin.com/in/vadym-tsymbslistyi-52b7202ba/">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
@@ -30,14 +31,24 @@ Introducing Python and Computer Science books .
   </div>
 
 ---
-
 ### :computer:   Technologies:
+<ul> 
+<li>Python</li>
+    <a href="https://www.python.org/" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" title="python" alt="python" width="50" height="40" />&nbsp
+  </a>
+  <br>
+  <li>HTML5</li>
+  <a href="https://www.w3.org/html/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  </a>
+  <br>
+  <li>CSS</li>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png" title="css3" alt="css" width="40" height="40"/>&nbsp
+  </a>
+</ul>
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" title="python" alt="python" width="50" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png" title="css3" alt="css" width="40" height="40"/>&nbsp
-</div>
 
 ---
 
